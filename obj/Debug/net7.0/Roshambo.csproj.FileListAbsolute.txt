@@ -1,0 +1,15 @@
+/Users/david/Projects/Roshambo/Roshambo/bin/Debug/net7.0/Roshambo
+/Users/david/Projects/Roshambo/Roshambo/bin/Debug/net7.0/Roshambo.deps.json
+/Users/david/Projects/Roshambo/Roshambo/bin/Debug/net7.0/Roshambo.runtimeconfig.json
+/Users/david/Projects/Roshambo/Roshambo/bin/Debug/net7.0/Roshambo.dll
+/Users/david/Projects/Roshambo/Roshambo/bin/Debug/net7.0/Roshambo.pdb
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.csproj.AssemblyReference.cache
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.AssemblyInfoInputs.cache
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.AssemblyInfo.cs
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.csproj.CoreCompileInputs.cache
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.dll
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/refint/Roshambo.dll
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.pdb
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/Roshambo.genruntimeconfig.cache
+/Users/david/Projects/Roshambo/Roshambo/obj/Debug/net7.0/ref/Roshambo.dll
